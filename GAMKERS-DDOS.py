@@ -29,7 +29,7 @@ print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
-os.system("figlet DdoS GAMKERS")
+os.system("figlet GMKR-Ddos")
 print("Team : GAMKERS")
 print ("\033[92m")
 print "________________TRYING TO REACH THE SERVER_____________________"
