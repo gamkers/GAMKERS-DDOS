@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet -f banner GAMKERS-DDOS")
+os.system("figlet GMKR$-Ddo§")
 print
 print "Coded By : GAMKERS"
 print "Author   : GAMKERS"
